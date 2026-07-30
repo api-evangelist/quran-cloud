@@ -1,4 +1,16 @@
 aid: quran-cloud
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/quran-cloud.png
 name: Quran Cloud
 description: "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran"
 url: https://alquran.cloud/api
