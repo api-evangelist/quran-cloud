@@ -39,7 +39,6 @@ apis:
   - name: Quran Cloud
     description: "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran"
     humanURL: https://alquran.cloud/api
-    baseURL: https://alquran.cloud/api
     tags:
       - Books
     properties:
