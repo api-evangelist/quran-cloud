@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "quran-cloud",
+    "captured_at": "2026-10-11T192320",
+    "source_url": "https://alquran.cloud/api",
+    "source_type": "Website",
+    "file": "quran-cloud-2026-10-11T192320.png",
+    "bytes": 202496,
+    "capture": "playwright-local"
+  }
+]
